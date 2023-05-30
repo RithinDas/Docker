@@ -5,3 +5,4 @@ The main purpose of choosing a golang based applciation to demostrate this examp
 So the real advantage of multi stage docker build and distro less images can be understand with a drastic decrease in the Image size.
 # Docker
 # Docker
+# Docker
